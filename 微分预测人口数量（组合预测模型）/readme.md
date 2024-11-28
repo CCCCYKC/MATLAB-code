@@ -1,0 +1,1 @@
+包括神经网络BP、灰色预测Grey、Logistic阻滞增长模型、Malthus模型、多项式拟合预测multinomial的组合预测模型代码
